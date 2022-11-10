@@ -13,7 +13,6 @@ export default async function RootLayout({
 
   console.log({ session })
 
-
   return (
     <html lang="en">
       {/*
